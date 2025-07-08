@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Davi Fernandes</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Python, C# and Cibersecurity**
+- 🌱 I’m currently learning **Python, C# and Cybersecurity**
 
 - 📫 How to reach me **davi.freitasfx@outlook.com**
 
